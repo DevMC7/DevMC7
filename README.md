@@ -1,5 +1,4 @@
-Minecraft Mod Developer \n
-Discord: d3vmc
+Minecraft Mod Developer - Discord: d3vmc
 
 <!---
 DevMC7/DevMC7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
