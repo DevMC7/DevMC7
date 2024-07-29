@@ -1,4 +1,4 @@
-Minecraft Mod Developer
+Minecraft Mod Developer \n
 Discord: d3vmc
 
 <!---
