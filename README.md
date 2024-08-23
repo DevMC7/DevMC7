@@ -1,8 +1,10 @@
 ### Minecraft Mod Developer.
-Languages:
+### Languages
 - Java
 - C++
 - Kotlin (learning)
+### Contact me
+My discord username is `@d3vmc
 
 <!---
 DevMC7/DevMC7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
