@@ -1,4 +1,8 @@
-Minecraft Mod Developer - Discord: d3vmc
+### Minecraft Mod Developer.
+Languages:
+- Java
+- C++
+- Kotlin (learning)
 
 <!---
 DevMC7/DevMC7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
