@@ -1,9 +1,9 @@
 ---
-description: Here you can find information about my mods
+description: Thermite is a common library that makes modding easier
 ---
 
-# DevMC's Mods
+# Thermite
 
-Discord invite: [https://discord.gg/DXtSQPVYzE](https://discord.gg/DXtSQPVYzE)
+(WIP) Features:
 
-Modrinth account: [https://modrinth.com/user/DevMC](https://modrinth.com/user/DevMC)
+* Config Library that supports ClothConfig and YACL

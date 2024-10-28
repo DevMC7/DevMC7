@@ -1,7 +1,6 @@
 # Table of contents
 
-* [DevMC's Mods](README.md)
-* [Thermite](thermite/README.md)
+* [Thermite](README.md)
   * [How to Install](thermite/how-to-install.md)
   * [Config Library Guide](thermite/config-library-guide/README.md)
     * [Basic Config](thermite/config-library-guide/basic-config.md)
